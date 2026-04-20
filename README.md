@@ -1,4 +1,4 @@
-# my-projects
+
 # Data Analyst Final Project – Multi-Feature Streamlit Application
 
 This project is a comprehensive **Data Analyst final project** developed **Streamlit**, integrating multiple data-related components into a single interactive web application.
